@@ -17,4 +17,4 @@ async def ping(ctx):
     await ctx.send('pong')
 
 if __name__ == '__main__':
-    bot.run(os.getenv('DISCORD_TOKEN'))
+    bot.run(os.getenv('MTA1MjU4OTIyMzY3MDE5MDA5MA.Gr5rtU.me-u_rDs1ICQtuCBoggkjgCCLQqhAgISHEvdI0'))
